@@ -1,0 +1,17 @@
+.namvar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: #1C2B35;
+    height: 80px;
+    padding: 0 90px;
+}
+.navbar{
+    display: flex;
+    gap: 30px;
+}
+.navbar a{
+    color: white;
+    transition: all 0.5s;
+}
