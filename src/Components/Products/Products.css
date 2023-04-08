@@ -10,4 +10,19 @@
     text-align: center;
     padding: 10px;
     border-radius: 5px;
+    position: relative;
+}
+h4, h5, h6{
+    margin: 0;
+}
+.h6{
+    margin-bottom: 5px;
+}
+.cart{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    border-radius: 0 0 5px 5px;
+    background-color: #FFE0B3;
 }

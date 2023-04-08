@@ -6,6 +6,13 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 40px;
-    padding: 100px 90px;
+    padding: 100px 60px;
 
+}
+.cart-details{
+    background-color: rgb(224, 187, 119);
+    height: 80vh;
+    padding: 25px;
+    position: sticky;
+    top: 80px;
 }
